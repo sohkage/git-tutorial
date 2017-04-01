@@ -1,4 +1,4 @@
 #GIT　チュートリアル
 
- -feature
-
+ - feature-A
+ - fix-B
